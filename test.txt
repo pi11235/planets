@@ -1,0 +1,10 @@
+this is a text files I'm learning to use about squashing git commits.
+
+This is useful for when we have to test XML after commiting
+
+I don't like having to leave a commit history that is only because I forgot a slash..
+
+or period.
+
+add one line
+
